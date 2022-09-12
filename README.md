@@ -1,3 +1,5 @@
+> ## ⚠️ This project has been merged into the upstream repository, [catppuccin/toolbox](https://github.com/catppuccin/toolbox). All future development will continue there.
+
 # 🖼️ Puccinier
 
 If you wrote a v1 or v2 Catppuccin theme, you may use Puccinier to automatically create the the rest of the v2 themes. Puccinier supports the conversion of properly formatted hex, rgb, and hsl colors (case insensitive).
