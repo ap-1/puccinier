@@ -1,4 +1,4 @@
-> ## ⚠️ This project has been merged into the upstream repository, [catppuccin/toolbox](https://github.com/catppuccin/toolbox). All future development will continue there.
+> **Warning**: This project has been merged into the upstream repository, [catppuccin/toolbox](https://github.com/catppuccin/toolbox). All future development will continue there.
 
 # 🖼️ Puccinier
 
